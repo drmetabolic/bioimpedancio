@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bioimpedancio/static/css/main.52cfcd93.css",
+    "main.js": "/bioimpedancio/static/js/main.d7307eb0.js",
+    "static/js/787.36fbe4f6.chunk.js": "/bioimpedancio/static/js/787.36fbe4f6.chunk.js",
+    "static/media/staticmap.jpeg": "/bioimpedancio/static/media/staticmap.915ac440ef60158326b4.jpeg",
+    "index.html": "/bioimpedancio/index.html",
+    "main.52cfcd93.css.map": "/bioimpedancio/static/css/main.52cfcd93.css.map",
+    "main.d7307eb0.js.map": "/bioimpedancio/static/js/main.d7307eb0.js.map",
+    "787.36fbe4f6.chunk.js.map": "/bioimpedancio/static/js/787.36fbe4f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52cfcd93.css",
+    "static/js/main.d7307eb0.js"
+  ]
+}
