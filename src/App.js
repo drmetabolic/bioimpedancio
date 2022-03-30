@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Nav/Navbar";
 
-import MyComponent from "./components/gMap";
+// import MyComponent from "./components/gMap";
 
 import { FaInstagram, FaWhatsapp } from "react-icons/fa";
 
@@ -65,8 +65,8 @@ function App() {
           <img src="./2022-01-10 5.jpg" alt="5" />
         </section>
         <section id="comoLlegar">
-          {/* <div id="map" /> */}
-          <MyComponent />
+          <div id="map" />
+          {/* <MyComponent /> */}
         </section>
       </div>
     </div>
